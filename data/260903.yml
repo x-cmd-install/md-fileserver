@@ -1,15 +1,17 @@
 about:
-  description: Locally view markdown files in a browser.
+  description:
+  |
+    Locally view markdown files in a browser.
   license: NOASSERTION
   homepage: 
   head: 7eda9e0
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-03T05:11:13Z
+  collectedAt: 2026-09-03T22:38:02Z
 timeline:
   created: 2014-07-13
   lastCommit: 2026-08-28
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 102
   watcher: 1
@@ -22,7 +24,7 @@ language:
   JavaScript: 40501
   CSS: 9455
   HTML: 1237
-totalLine: 51193
+totalBytes: 51193
 recent:
   last30d:
     since: 2026-08-04
