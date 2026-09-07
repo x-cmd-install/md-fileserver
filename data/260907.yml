@@ -5,7 +5,7 @@ about:
   head: 7eda9e0
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:39:51Z
+  collectedAt: 2026-09-07T19:47:49Z
 timeline:
   created: 2014-07-13
   lastCommit: 2026-08-28
@@ -81,7 +81,7 @@ total:
   commit: 155
 ---
 path: /home/runner/.x-repo/github.com/commenthol/md-fileserver
-collectedAt: 2026-09-07T04:39:52Z
+collectedAt: 2026-09-07T19:47:51Z
 loc:
   JavaScript:
     code: 1284
@@ -119,31 +119,26 @@ total:
   blanks: 794
   files: 39
 ---
-date: "2026-08-24"
+date: "2026-09-07"
 repo:
   name: github.com/commenthol/md-fileserver
-  commit: 46695f9641a50b233870b4b082f00d137280b0fb
+  commit: 7eda9e0c181ddfd1be189c082dbef2e7dc9ee515
 scorecard:
-  version: v5.5.1-0.20260815060127-d1fab88f5463
-  commit: d1fab88f54636ff366076edfc5c239f97b3c8e66
-score: 3
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
+score: 3.2
 checks:
   - name: Dangerous-Workflow
     score: 10
     reason: no dangerous workflow patterns detected
     details: null
-  - name: Packaging
-    score: -1
-    reason: packaging workflow not detected
-    details:
-      - 'Warn: no GitHub/GitLab publishing workflow detected.'
+  - name: Binary-Artifacts
+    score: 10
+    reason: no binaries found in the repo
+    details: null
   - name: Code-Review
     score: 1
     reason: Found 3/17 approved changesets -- score normalized to 1
-    details: null
-  - name: Maintained
-    score: 0
-    reason: 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
     details: null
   - name: Token-Permissions
     score: 0
@@ -151,9 +146,14 @@ checks:
     details:
       - 'Warn: no topLevel permission defined: .github/workflows/ci.yml:1'
       - 'Info: no jobLevel write permissions found'
-  - name: Binary-Artifacts
-    score: 10
-    reason: no binaries found in the repo
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
+  - name: Maintained
+    score: 2
+    reason: 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
     details: null
   - name: Pinned-Dependencies
     score: 2
@@ -203,7 +203,7 @@ checks:
       - 'Warn: 0 commits out of 19 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:39:52+00:00
+  collectedAt: 2026-09-07T19:47:52+00:00
   platform:
     darwin/arm64:
       name:  null
