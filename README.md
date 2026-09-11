@@ -12,28 +12,7 @@ Locally view markdown files in a browser.
 x install md-fileserver
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/commenthol/md-fileserver>
-- **License**: NOASSERTION
-
-## Popularity
-
-- **Stars**: 102 · **Forks**: 8 · **Open issues**: 16 · **Contributors**: 6
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 4 · **Commits**: 155
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 360d | 2025-09-15 | 0 | 3 | 0 | 1 | 0 | 13 |
-
-## Code size
+## Code insight
 
 Total: **1,886** lines of code across **38** files in the top 5 languages.
 
@@ -55,6 +34,30 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## Source
+
+- **Upstream**: <https://github.com/commenthol/md-fileserver>
+- **License**: NOASSERTION
+
+## Popularity
+
+- **Stars**: 102 · **Forks**: 8 · **Open issues**: 16 · **Contributors**: 6
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 4 · **Commits**: 155
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-15 | 0 | 1 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-16 | 0 | 3 | 0 | 1 | 0 | 13 |
+| last720d | 2024-09-21 | 0 | 6 | 0 | 1 | 0 | 27 |
+
 ## Improve this data
 
 Install metadata for md-fileserver lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `md-fileserver` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -64,4 +67,4 @@ Install metadata for md-fileserver lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:20:00Z._
