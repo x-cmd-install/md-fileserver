@@ -14,13 +14,13 @@ x install md-fileserver
 
 ## Code insight
 
-Total: **1,886** lines of code across **38** files in the top 5 languages.
+Total: **1,891** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 1,284 | 174 | 188 | 18 |
+| JavaScript | 1,288 | 174 | 188 | 18 |
 | Css | 448 | 8 | 63 | 3 |
-| Json | 113 | 0 | 0 | 1 |
+| Json | 114 | 0 | 0 | 1 |
 | Html | 41 | 0 | 1 | 2 |
 | Markdown | 0 | 1,020 | 510 | 14 |
 
@@ -45,18 +45,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 4 · **Commits**: 155
+- **Releases**: 0 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 4 · **Commits**: 158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last180d | 2026-04-27 | 0 | 1 | 0 | 0 | 0 | 6 |
-| 360d | 2025-10-29 | 0 | 3 | 0 | 0 | 0 | 12 |
-| last720d | 2024-11-03 | 0 | 6 | 0 | 1 | 0 | 27 |
+| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-04-28 | 0 | 1 | 0 | 0 | 0 | 9 |
+| 360d | 2025-10-30 | 0 | 3 | 0 | 0 | 0 | 15 |
+| last720d | 2024-11-04 | 0 | 6 | 0 | 1 | 0 | 30 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for md-fileserver lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:36:28Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:38:11Z._
